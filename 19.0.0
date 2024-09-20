@@ -1,0 +1,13 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 254, reused 227, downloaded 0, added 0
+ WARN  6 deprecated subdependencies found: are-we-there-yet@2.0.0, gauge@3.0.2, glob@7.2.3, inflight@1.0.6, npmlog@5.0.1, rimraf@3.0.2
+Already up to date
+Progress: resolved 254, reused 227, downloaded 0, added 0, done
+
+ WARN  Issues with peer dependencies found
+.
+└─┬ next 15.0.0-canary.159
+  ├── ✕ unmet peer react@19.0.0-rc-a99d8e8d-20240916: found 18.2.0
+  └── ✕ unmet peer react-dom@19.0.0-rc-a99d8e8d-20240916: found 18.2.0
+
+Done in 1.7s
